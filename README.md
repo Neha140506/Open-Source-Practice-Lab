@@ -8,13 +8,14 @@ A **beginner-friendly open source repository** designed to help developers learn
 
 ⭐ If this repository helps you, please consider **starring it** so more learners can discover it.
 
+
 ![GitHub stars](https://img.shields.io/github/stars/Abhi-2516/Open-Source-Practice-Lab?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Abhi-2516/Open-Source-Practice-Lab?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/Abhi-2516/Open-Source-Practice-Lab?style=for-the-badge)
-![Good First Issues](https://img.shields.io/github/issues-search/Abhi-2516/Open-Source-Practice-Lab?query=label%3A%22good%20first%20issue%22\&style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
 ![Beginner Friendly](https://img.shields.io/badge/beginner-friendly-blue?style=for-the-badge)
 ![License](https://img.shields.io/github/license/Abhi-2516/Open-Source-Practice-Lab?style=for-the-badge)
+
 
 </div>
 
