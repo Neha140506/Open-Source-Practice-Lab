@@ -9,3 +9,5 @@ Output:
 """
 
 # TODO: Write your solution here
+s=input()
+print(s[::-1])
